@@ -3,7 +3,7 @@ name: Deploy DEV
 
 on:
   workflow_run:
-    workflows: [Build]
+    workflows: [Build-a-thing]
     branches: [ 'dev' ]
     types:
       - completed
