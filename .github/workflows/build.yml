@@ -1,4 +1,4 @@
-name: Build-a-thing
+name: Build a thing
 
 on:
   push:
