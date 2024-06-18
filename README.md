@@ -1,2 +1,1 @@
-# cicd
-Github Action playground
+# Github Action playground
